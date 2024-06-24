@@ -1,0 +1,11 @@
+{
+    "name": "Gemini Invoice Extractor",
+    "version": "1.0.0",
+    "description": "This is a Gemini based LLM that is used to extract data from an image",
+    "manifest_version": 3,
+    "author": "Harshith Avineni",
+    "action": {
+        "default_popup": "app.py",
+        "default_title": "Gemini Multi Language Image Extractor"
+    }
+}
